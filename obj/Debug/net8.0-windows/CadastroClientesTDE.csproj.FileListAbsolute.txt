@@ -1,0 +1,16 @@
+C:\Users\marce\Documentos\TDE_marcão\CadastroClientesTDE\bin\Debug\net8.0-windows\CadastroClientesTDE.exe
+C:\Users\marce\Documentos\TDE_marcão\CadastroClientesTDE\bin\Debug\net8.0-windows\CadastroClientesTDE.deps.json
+C:\Users\marce\Documentos\TDE_marcão\CadastroClientesTDE\bin\Debug\net8.0-windows\CadastroClientesTDE.runtimeconfig.json
+C:\Users\marce\Documentos\TDE_marcão\CadastroClientesTDE\bin\Debug\net8.0-windows\CadastroClientesTDE.dll
+C:\Users\marce\Documentos\TDE_marcão\CadastroClientesTDE\bin\Debug\net8.0-windows\CadastroClientesTDE.pdb
+C:\Users\marce\Documentos\TDE_marcão\CadastroClientesTDE\obj\Debug\net8.0-windows\CadastroClientesTDE.FormCadastroClientes.resources
+C:\Users\marce\Documentos\TDE_marcão\CadastroClientesTDE\obj\Debug\net8.0-windows\CadastroClientesTDE.csproj.GenerateResource.cache
+C:\Users\marce\Documentos\TDE_marcão\CadastroClientesTDE\obj\Debug\net8.0-windows\CadastroClientesTDE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Documentos\TDE_marcão\CadastroClientesTDE\obj\Debug\net8.0-windows\CadastroClientesTDE.AssemblyInfoInputs.cache
+C:\Users\marce\Documentos\TDE_marcão\CadastroClientesTDE\obj\Debug\net8.0-windows\CadastroClientesTDE.AssemblyInfo.cs
+C:\Users\marce\Documentos\TDE_marcão\CadastroClientesTDE\obj\Debug\net8.0-windows\CadastroClientesTDE.csproj.CoreCompileInputs.cache
+C:\Users\marce\Documentos\TDE_marcão\CadastroClientesTDE\obj\Debug\net8.0-windows\CadastroClientesTDE.dll
+C:\Users\marce\Documentos\TDE_marcão\CadastroClientesTDE\obj\Debug\net8.0-windows\refint\CadastroClientesTDE.dll
+C:\Users\marce\Documentos\TDE_marcão\CadastroClientesTDE\obj\Debug\net8.0-windows\CadastroClientesTDE.pdb
+C:\Users\marce\Documentos\TDE_marcão\CadastroClientesTDE\obj\Debug\net8.0-windows\CadastroClientesTDE.genruntimeconfig.cache
+C:\Users\marce\Documentos\TDE_marcão\CadastroClientesTDE\obj\Debug\net8.0-windows\ref\CadastroClientesTDE.dll

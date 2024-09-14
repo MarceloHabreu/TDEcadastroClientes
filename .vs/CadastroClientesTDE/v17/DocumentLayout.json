@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marce\\Documentos\\TDE_marc\u00E3o\\CadastroClientesTDE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{834F8333-5B5D-4613-8F78-AA67F471336A}|CadastroClientesTDE.csproj|c:\\users\\marce\\documentos\\tde_marc\u00E3o\\cadastroclientestde\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{834F8333-5B5D-4613-8F78-AA67F471336A}|CadastroClientesTDE.csproj|solutionrelative:cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{834F8333-5B5D-4613-8F78-AA67F471336A}|CadastroClientesTDE.csproj|c:\\users\\marce\\documentos\\tde_marc\u00E3o\\cadastroclientestde\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{834F8333-5B5D-4613-8F78-AA67F471336A}|CadastroClientesTDE.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{834F8333-5B5D-4613-8F78-AA67F471336A}|CadastroClientesTDE.csproj|c:\\users\\marce\\documentos\\tde_marc\u00E3o\\cadastroclientestde\\gerenciadorclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{834F8333-5B5D-4613-8F78-AA67F471336A}|CadastroClientesTDE.csproj|solutionrelative:gerenciadorclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{834F8333-5B5D-4613-8F78-AA67F471336A}|CadastroClientesTDE.csproj|c:\\users\\marce\\documentos\\tde_marc\u00E3o\\cadastroclientestde\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{834F8333-5B5D-4613-8F78-AA67F471336A}|CadastroClientesTDE.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{834F8333-5B5D-4613-8F78-AA67F471336A}|CadastroClientesTDE.csproj|c:\\users\\marce\\documentos\\tde_marc\u00E3o\\cadastroclientestde\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{834F8333-5B5D-4613-8F78-AA67F471336A}|CadastroClientesTDE.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{834F8333-5B5D-4613-8F78-AA67F471336A}|CadastroClientesTDE.csproj|C:\\Users\\marce\\Documentos\\TDE_marc\u00E3o\\CadastroClientesTDE\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{834F8333-5B5D-4613-8F78-AA67F471336A}|CadastroClientesTDE.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\marce\\Documentos\\TDE_marc\u00E3o\\CadastroClientesTDE\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\marce\\Documentos\\TDE_marc\u00E3o\\CadastroClientesTDE\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T20:26:26.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\marce\\Documentos\\TDE_marc\u00E3o\\CadastroClientesTDE\\Cliente.cs",
+              "RelativeDocumentMoniker": "Cliente.cs",
+              "ToolTip": "C:\\Users\\marce\\Documentos\\TDE_marc\u00E3o\\CadastroClientesTDE\\Cliente.cs",
+              "RelativeToolTip": "Cliente.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwCEAAACDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T14:27:53.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marce\\Documentos\\TDE_marc\u00E3o\\CadastroClientesTDE\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\marce\\Documentos\\TDE_marc\u00E3o\\CadastroClientesTDE\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T13:37:19.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GerenciadorClientes.cs",
+              "DocumentMoniker": "C:\\Users\\marce\\Documentos\\TDE_marc\u00E3o\\CadastroClientesTDE\\GerenciadorClientes.cs",
+              "RelativeDocumentMoniker": "GerenciadorClientes.cs",
+              "ToolTip": "C:\\Users\\marce\\Documentos\\TDE_marc\u00E3o\\CadastroClientesTDE\\GerenciadorClientes.cs",
+              "RelativeToolTip": "GerenciadorClientes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T21:30:14.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\marce\\Documentos\\TDE_marc\u00E3o\\CadastroClientesTDE\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\marce\\Documentos\\TDE_marc\u00E3o\\CadastroClientesTDE\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAOwAAAAAAAAAAAAAAC4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T21:18:17.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\marce\\Documentos\\TDE_marc\u00E3o\\CadastroClientesTDE\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\marce\\Documentos\\TDE_marc\u00E3o\\CadastroClientesTDE\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwIsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T19:58:02.747Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
